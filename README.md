@@ -2,6 +2,5 @@
 
 A Java implementation of a D-Heap.
 
-Documentation: DHeap_doc_Hebrew.pdf
-
-Exercise Instructions: DHeap_instructions.pdf
++ [Documentation] (DHeap_doc_Hebrew.pdf)
++ [Exercise Instructions] (DHeap_instructions.pdf)
